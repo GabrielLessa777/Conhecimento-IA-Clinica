@@ -1,0 +1,12 @@
+https://github.com/langchain-ai/langchain.git
+https://github.com/langchain-ai/langgraph.git
+https://github.com/crewAIInc/crewAI.git
+https://github.com/RasaHQ/rasa.git
+https://github.com/botpress/botpress.git
+https://github.com/SYSTRAN/faster-whisper.git
+https://github.com/openai/whisper.git
+https://github.com/langchain-ai/langchain.git
+https://github.com/crewAIInc/crewAI.git
+https://github.com/shahbaz-dev1/whatsapp-ai-agent.git
+https://github.com/Zain-ul-din/whatsapp-ai-bot.git
+https://github.com/wassengerhq/whatsapp-chatgpt-bot.git
